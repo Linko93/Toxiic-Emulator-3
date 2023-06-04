@@ -1,0 +1,27 @@
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\bin\Debug\GameServer.exe.config
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\bin\Debug\GameServer.exe
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\bin\Debug\GameServer.pdb
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\bin\Debug\Mysql.Data.dll
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\obj\Debug\GameServer.exe
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\obj\Debug\GameServer.pdb
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+F:\WarRock Emu\Montana\Game Server\Game Server\bin\Debug\GameServer.exe.config
+F:\WarRock Emu\Montana\Game Server\Game Server\obj\Debug\GameServer.exe
+F:\WarRock Emu\Montana\Game Server\Game Server\obj\Debug\GameServer.pdb
+F:\WarRock Emu\Montana\Game Server\Game Server\bin\Debug\GameServer.exe
+F:\WarRock Emu\Montana\Game Server\Game Server\bin\Debug\GameServer.pdb
+F:\WarRock Emu\Montana\Game Server\Game Server\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+F:\WarRock Emu\Montana\Game Server\bin\Debug\GameServer.exe.config
+F:\WarRock Emu\Montana\Game Server\obj\Debug\GameServer.exe
+F:\WarRock Emu\Montana\Game Server\obj\Debug\GameServer.pdb
+F:\WarRock Emu\Montana\Game Server\bin\Debug\GameServer.exe
+F:\WarRock Emu\Montana\Game Server\bin\Debug\GameServer.pdb
+F:\WarRock Emu\Montana\Game Server\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+F:\WarRock Emu\Montana\Game Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Game Server v2\bin\Debug\GameServer.exe.config
+C:\Users\Administrator\Desktop\Game Server v2\obj\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\Game Server v2\obj\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\Game Server v2\bin\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\Game Server v2\bin\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\Game Server v2\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Game Server v2\obj\Debug\GameServer.csprojResolveAssemblyReference.cache

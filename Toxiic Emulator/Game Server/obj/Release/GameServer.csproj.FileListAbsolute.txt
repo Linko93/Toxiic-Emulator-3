@@ -1,0 +1,42 @@
+F:\WarRock Emu\Montana\Game Server\bin\Release\GameServer.exe.config
+F:\WarRock Emu\Montana\Game Server\bin\Release\GameServer.exe
+F:\WarRock Emu\Montana\Game Server\bin\Release\GameServer.pdb
+F:\WarRock Emu\Montana\Game Server\obj\Release\GameServer.exe
+F:\WarRock Emu\Montana\Game Server\obj\Release\GameServer.pdb
+I:\WarRock Emu\Montana\Game Server\bin\Release\GameServer.exe.config
+I:\WarRock Emu\Montana\Game Server\obj\Release\GameServer.exe
+I:\WarRock Emu\Montana\Game Server\obj\Release\GameServer.pdb
+I:\WarRock Emu\Montana\Game Server\bin\Release\GameServer.exe
+I:\WarRock Emu\Montana\Game Server\bin\Release\GameServer.pdb
+I:\WarRock Emu\Montana\Game Server\obj\Release\GameServer.csprojResolveAssemblyReference.cache
+F:\WarRock Emu\Montana\Game Server\obj\Release\GameServer.csprojResolveAssemblyReference.cache
+F:\WarRock Emu\Montana\Game Server\bin\Release\MySql.Data.dll
+E:\USB\WarRock Emu\Montana\Game Server\bin\Release\GameServer.exe.config
+E:\USB\WarRock Emu\Montana\Game Server\obj\Release\GameServer.exe
+E:\USB\WarRock Emu\Montana\Game Server\obj\Release\GameServer.pdb
+E:\USB\WarRock Emu\Montana\Game Server\bin\Release\GameServer.exe
+E:\USB\WarRock Emu\Montana\Game Server\bin\Release\GameServer.pdb
+E:\USB\WarRock Emu\Montana\Game Server\bin\Release\MySql.Data.dll
+E:\USB\WarRock Emu\Montana\Game Server\obj\Release\GameServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Game Server v2\bin\Release\GameServer.exe.config
+C:\Users\Administrator\Desktop\Game Server v2\obj\Release\GameServer.exe
+C:\Users\Administrator\Desktop\Game Server v2\obj\Release\GameServer.pdb
+C:\Users\Administrator\Desktop\Game Server v2\bin\Release\GameServer.exe
+C:\Users\Administrator\Desktop\Game Server v2\bin\Release\GameServer.pdb
+C:\Users\Administrator\Desktop\Game Server v2\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\Game Server v2\obj\Release\GameServer.csprojResolveAssemblyReference.cache
+F:\WarRock Emu\Montana\Game Server v2\bin\Release\GameServer.exe.config
+F:\WarRock Emu\Montana\Game Server v2\bin\Release\GameServer.exe
+F:\WarRock Emu\Montana\Game Server v2\bin\Release\GameServer.pdb
+F:\WarRock Emu\Montana\Game Server v2\bin\Release\MySql.Data.dll
+F:\WarRock Emu\Montana\Game Server v2\obj\Release\GameServer.exe
+F:\WarRock Emu\Montana\Game Server v2\obj\Release\GameServer.pdb
+F:\WarRock Emu\Montana\Game Server v2\obj\Release\GameServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server\Game Server\bin\Release\GameServer.exe.config
+C:\Users\Administrator\Desktop\Server\Game Server\bin\Release\GameServer.exe
+C:\Users\Administrator\Desktop\Server\Game Server\bin\Release\GameServer.pdb
+C:\Users\Administrator\Desktop\Server\Game Server\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\Server\Game Server\obj\Release\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Server\Game Server\obj\Release\GameServer.exe
+C:\Users\Administrator\Desktop\Server\Game Server\obj\Release\GameServer.pdb
+C:\Users\Administrator\Desktop\Server\Game Server\obj\Release\GameServer.csprojResolveAssemblyReference.cache

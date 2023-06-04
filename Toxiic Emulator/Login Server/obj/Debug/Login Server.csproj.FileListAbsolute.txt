@@ -1,0 +1,12 @@
+C:\Users\Mark\Desktop\New Core\Login Server\Game Server\bin\Debug\Login Server.exe.config
+C:\Users\Mark\Desktop\New Core\Login Server\Game Server\bin\Debug\Login Server.exe
+C:\Users\Mark\Desktop\New Core\Login Server\Game Server\bin\Debug\Login Server.pdb
+C:\Users\Mark\Desktop\New Core\Login Server\Game Server\obj\Debug\Login Server.exe
+C:\Users\Mark\Desktop\New Core\Login Server\Game Server\obj\Debug\Login Server.pdb
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\bin\Debug\Login Server.exe.config
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\obj\Debug\Login Server.exe
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\obj\Debug\Login Server.pdb
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\bin\Debug\Login Server.exe
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\bin\Debug\Login Server.pdb
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\obj\Debug\Login Server.csprojResolveAssemblyReference.cache
+F:\WarRock Emu\Montana\New Core\Login Server\Login Server\bin\Debug\Mysql.Data.dll

@@ -1,0 +1,39 @@
+/* Start up: 12/8/2018 7:39:41 PM */
+
+[12/8/2018 7:39:43 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[12/8/2018 7:39:43 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[12/8/2018 7:39:43 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[12/8/2018 7:39:43 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[12/8/2018 7:39:43 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[12/8/2018 7:39:43 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[12/8/2018 7:39:43 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[12/9/2018 12:00:46 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:46 - 09/12/2018
+[12/10/2018 12:00:03 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:03 - 10/12/2018
+[12/11/2018 12:00:33 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:33 - 11/12/2018
+[12/12/2018 12:00:07 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:07 - 12/12/2018
+[12/13/2018 12:00:39 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:39 - 13/12/2018
+[12/14/2018 12:00:05 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:05 - 14/12/2018
+[12/15/2018 12:00:35 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:35 - 15/12/2018
+[12/16/2018 12:00:51 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:51 - 16/12/2018
+[12/17/2018 12:00:04 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:04 - 17/12/2018
+[12/18/2018 12:00:23 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:23 - 18/12/2018
+[12/18/2018 8:34:46 AM] [User.ReceiveData] » Error parsing user information for user kevinthegod
+[12/18/2018 8:34:46 AM] [User.ReceiveData] » System.OverflowException: Value was either too large or too small for an Int32.
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Game_Server.Game.CP_CharacterInfo.Handle(User usr) in C:\Users\Administrator\Desktop\Server\Game Server\Game\CharacterInfo.cs:line 39
+[12/18/2018 8:35:25 AM] [User.ReceiveData] » Error parsing user information for user kevinthegod
+[12/18/2018 8:35:25 AM] [User.ReceiveData] » System.OverflowException: Value was either too large or too small for an Int32.
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Game_Server.Game.CP_CharacterInfo.Handle(User usr) in C:\Users\Administrator\Desktop\Server\Game Server\Game\CharacterInfo.cs:line 39
+[12/18/2018 8:36:32 AM] [User.ReceiveData] » Error parsing user information for user kevinthegod
+[12/18/2018 8:36:32 AM] [User.ReceiveData] » System.OverflowException: Value was either too large or too small for an Int32.
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Game_Server.Game.CP_CharacterInfo.Handle(User usr) in C:\Users\Administrator\Desktop\Server\Game Server\Game\CharacterInfo.cs:line 39
+[12/18/2018 8:38:10 AM] [User.ReceiveData] » Error parsing user information for user kevinthegod
+[12/18/2018 8:38:10 AM] [User.ReceiveData] » System.OverflowException: Value was either too large or too small for an Int32.
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Game_Server.Game.CP_CharacterInfo.Handle(User usr) in C:\Users\Administrator\Desktop\Server\Game Server\Game\CharacterInfo.cs:line 39

@@ -1,0 +1,9 @@
+C:\Users\Mark\Desktop\New Core\Game Server\Game Server\bin\Debug\Game Server.exe.config
+C:\Users\Mark\Desktop\New Core\Game Server\Game Server\obj\Debug\Game Server.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\New Core\Game Server\Game Server\bin\Debug\Game Server.exe
+C:\Users\Mark\Desktop\New Core\Game Server\Game Server\bin\Debug\Game Server.pdb
+C:\Users\Mark\Desktop\New Core\Game Server\Game Server\obj\Debug\Game Server.exe
+C:\Users\Mark\Desktop\New Core\Game Server\Game Server\obj\Debug\Game Server.pdb
+C:\Users\Mark\Desktop\New Core\Login Server\Game Server\bin\Debug\Game Server.exe.config
+C:\Users\Mark\Desktop\New Core\Login Server\Game Server\obj\Debug\Game Server.exe
+C:\Users\Mark\Desktop\New Core\Login Server\Game Server\obj\Debug\Game Server.pdb

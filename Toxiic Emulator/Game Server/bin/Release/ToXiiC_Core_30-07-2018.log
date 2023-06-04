@@ -1,0 +1,164 @@
+/* Start up: 7/30/2018 2:16:53 AM */
+
+[7/30/2018 2:16:57 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:16:57 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:16:57 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:16:57 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:16:57 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:16:57 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:16:57 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:17:16 AM] [Socket.RegisteredWaitCallback] » Unhandled exception [1]: Specified argument was out of the range of valid values.
+Parameter name: value    at System.Net.Sockets.Socket.set_Ttl(Int16 value)
+   at Game_Server.User..ctor(UInt32 sessionId, Socket socket) in C:\Users\Administrator\Desktop\Server\Game Server\User\User.cs:line 2012
+   at Game_Server.Networking.NetworkSocket.OnReceive(IAsyncResult iAr) in C:\Users\Administrator\Desktop\Server\Game Server\Networking\NetworkSocket.cs:line 46
+   at System.Net.LazyAsyncResult.Complete(IntPtr userToken)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.ContextAwareResult.Complete(IntPtr userToken)
+   at System.Net.LazyAsyncResult.ProtectedInvokeCallback(Object result, IntPtr userToken)
+   at System.Net.Sockets.Socket.AcceptCallback(Object nullState)
+   at System.Net.Sockets.Socket.RegisteredWaitCallback(Object state, Boolean timedOut)
+   at System.Threading._ThreadPoolWaitOrTimerCallback.PerformWaitOrTimerCallback(Object state, Boolean timedOut)
+/* Start up: 7/30/2018 2:19:30 AM */
+
+[7/30/2018 2:19:33 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:19:33 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:19:33 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:19:33 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:19:33 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:19:33 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:19:33 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:19:38 AM] [Socket.RegisteredWaitCallback] » Unhandled exception [1]: Specified argument was out of the range of valid values.
+Parameter name: value    at System.Net.Sockets.Socket.set_Ttl(Int16 value)
+   at Game_Server.User..ctor(UInt32 sessionId, Socket socket) in C:\Users\Administrator\Desktop\Server\Game Server\User\User.cs:line 2012
+   at Game_Server.Networking.NetworkSocket.OnReceive(IAsyncResult iAr) in C:\Users\Administrator\Desktop\Server\Game Server\Networking\NetworkSocket.cs:line 46
+   at System.Net.LazyAsyncResult.Complete(IntPtr userToken)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.ContextAwareResult.Complete(IntPtr userToken)
+   at System.Net.LazyAsyncResult.ProtectedInvokeCallback(Object result, IntPtr userToken)
+   at System.Net.Sockets.Socket.AcceptCallback(Object nullState)
+   at System.Net.Sockets.Socket.RegisteredWaitCallback(Object state, Boolean timedOut)
+   at System.Threading._ThreadPoolWaitOrTimerCallback.PerformWaitOrTimerCallback(Object state, Boolean timedOut)
+/* Start up: 7/30/2018 2:20:13 AM */
+
+[7/30/2018 2:20:17 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:20:17 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:20:17 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:20:17 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:20:17 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:20:17 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:20:17 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+/* Start up: 7/30/2018 2:32:17 AM */
+
+[7/30/2018 2:32:20 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:32:20 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:32:20 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:32:20 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:32:20 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:32:20 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 2:32:20 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 9:48:38 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/30/2018 9:54:20 AM] [User.ReceiveData] » [DEBUG] Grendizer No TCP Client - kick out
+[7/30/2018 10:12:59 AM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/30/2018 10:41:08 AM] [User.ReceiveData] » [DEBUG] Maurice320x No TCP Client - kick out
+[7/30/2018 10:45:31 AM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/30/2018 11:26:22 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/30/2018 12:33:46 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/30/2018 12:51:40 PM] [User.ReceiveData] » Abdabd tried to login with wrong ticket id!
+[7/30/2018 12:59:13 PM] [User.ReceiveData] » [DEBUG] mrxd No TCP Client - kick out
+[7/30/2018 1:36:44 PM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out
+[7/30/2018 1:42:15 PM] [User.ReceiveData] » [DEBUG] Casper No TCP Client - kick out
+[7/30/2018 3:11:04 PM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out
+[7/30/2018 3:17:47 PM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 366
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1980
+/* Start up: 7/30/2018 3:31:14 PM */
+
+[7/30/2018 3:31:21 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:31:21 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:31:21 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:31:21 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:31:21 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:31:21 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:31:21 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+/* Start up: 7/30/2018 3:45:29 PM */
+
+[7/30/2018 3:45:35 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:45:35 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:45:35 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:45:35 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:45:35 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:45:35 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 3:45:35 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/30/2018 5:01:40 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/30/2018 5:24:01 PM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 366
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1988
+[7/30/2018 5:45:27 PM] [User.ReceiveData] » [DEBUG] Jack No TCP Client - kick out
+[7/30/2018 8:22:14 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/30/2018 8:27:21 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/30/2018 8:27:39 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/30/2018 8:49:10 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/30/2018 9:48:31 PM] [User.ReceiveData] » [DEBUG] llBerBatoVll No TCP Client - kick out
+[7/30/2018 9:52:23 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/30/2018 10:33:37 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/30/2018 10:33:44 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/30/2018 10:33:47 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 12:00:49 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:49 - 31/07/2018
+[7/31/2018 12:49:00 AM] [User.ReceiveData] » [DEBUG] LegionWR No TCP Client - kick out
+[7/31/2018 1:23:13 AM] [User.ReceiveData] » [DEBUG] Casper No TCP Client - kick out
+[7/31/2018 2:11:57 AM] [User.ReceiveData] » [DEBUG] Casper No TCP Client - kick out
+[7/31/2018 8:55:32 AM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 10:15:01 AM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out
+[7/31/2018 1:00:05 PM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out
+[7/31/2018 1:21:09 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/31/2018 2:49:59 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/31/2018 3:47:24 PM] [User.ReceiveData] » General tried to delete DB40 but he haven't it!
+[7/31/2018 4:10:31 PM] [User.ReceiveData] » [DEBUG] MiflehK No TCP Client - kick out
+[7/31/2018 4:16:53 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 4:16:55 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 4:16:57 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 4:16:58 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 4:25:43 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 4:28:04 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 4:45:07 PM] [User.ReceiveData] » Grendizer tried to equip DM10 but he haven't it!
+[7/31/2018 5:33:15 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 6:13:31 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/31/2018 6:42:37 PM] [User.ReceiveData] » [DEBUG] theking No TCP Client - kick out
+[7/31/2018 6:48:28 PM] [User.ReceiveData] » alisef tried to login with wrong ticket id!
+[7/31/2018 8:03:00 PM] [TCP_Client.OnReceive] » Unhandled TCP Packet (30) alisef 0
+[7/31/2018 8:03:01 PM] [TCP_Client.OnReceive] » Unhandled TCP Packet (30) alisef 0
+[7/31/2018 9:05:20 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/31/2018 10:00:29 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 10:00:30 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 10:00:33 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/31/2018 10:48:35 PM] [User.ReceiveData] » [DEBUG] llBerBatoVll No TCP Client - kick out
+[7/31/2018 11:51:58 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[8/1/2018 12:00:46 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:46 - 01/08/2018
+[8/1/2018 8:35:46 AM] [User.ReceiveData] » Chains tried to delete DF81 but he haven't it!
+[8/1/2018 8:35:46 AM] [User.ReceiveData] » Chains tried to delete DF82 but he haven't it!
+[8/1/2018 8:35:47 AM] [User.ReceiveData] » Chains tried to delete DF92 but he haven't it!
+[8/1/2018 8:35:47 AM] [User.ReceiveData] » Chains tried to delete DF97 but he haven't it!
+[8/1/2018 8:35:47 AM] [User.ReceiveData] » Chains tried to delete GF01 but he haven't it!
+[8/1/2018 8:35:50 AM] [User.ReceiveData] » Chains tried to delete DS05 but he haven't it!
+[8/1/2018 11:07:59 AM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out
+[8/1/2018 11:21:34 AM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out
+[8/1/2018 12:10:55 PM] [User.ReceiveData] » [DEBUG] Maurice320x No TCP Client - kick out
+[8/1/2018 1:17:42 PM] [User.ReceiveData] » [DEBUG] Casper No TCP Client - kick out
+[8/1/2018 2:32:37 PM] [User.ReceiveData] » kaysu22 tried to equip DG46 but he haven't it!
+[8/1/2018 2:33:53 PM] [User.ReceiveData] » [DEBUG] Negative No TCP Client - kick out
+[8/1/2018 4:32:37 PM] [User.ReceiveData] » [DEBUG] MrProMan No TCP Client - kick out
+[8/1/2018 4:35:48 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/1/2018 10:20:21 PM] [TCP_Client.OnReceive] » Unhandled TCP Packet (20) CenTury 1
+[8/1/2018 11:06:30 PM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 366
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1988
+[8/2/2018 12:00:04 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:04 - 02/08/2018
+[8/2/2018 8:29:01 AM] [User.ReceiveData] » [DEBUG] Negative No TCP Client - kick out
+[8/2/2018 9:49:56 AM] [User.ReceiveData] » [DEBUG] KatanaWR No TCP Client - kick out
+[8/2/2018 10:43:56 AM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out
+[8/2/2018 10:54:10 AM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out
+[8/2/2018 12:12:17 PM] [User.ReceiveData] » [DEBUG] Skill No TCP Client - kick out
+[8/2/2018 2:04:31 PM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out
+[8/2/2018 3:06:40 PM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out
+[8/2/2018 3:16:36 PM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out

@@ -1,0 +1,159 @@
+/* Start up: 8/16/2018 6:50:41 PM */
+
+[8/16/2018 6:50:57 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:50:57 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:50:57 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:50:57 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:50:57 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:50:58 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:50:58 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:51:45 PM] [ExecutionContext.RunInternal] » Naykhm tried to delete BF39 but he haven't it!
+[8/16/2018 6:51:45 PM] [User.ReceiveData] » Naykhm tried to equip BF39 but he hasn't it!
+/* Start up: 8/16/2018 6:54:16 PM */
+
+[8/16/2018 6:54:23 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:54:23 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:54:23 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:54:23 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:54:23 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:54:23 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 6:54:23 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[8/16/2018 7:00:16 PM] [User.ReceiveData] » [DEBUG] dezert No TCP Client - kick out
+[8/16/2018 7:38:20 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[8/16/2018 9:11:28 PM] [User.ReceiveData] » RacshNiqhtz tried to equip D806 but he haven't it!
+[8/17/2018 12:00:46 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:46 - 17/08/2018
+[8/17/2018 12:01:12 AM] [User.ReceiveData] » [DEBUG] Eliminator No TCP Client - kick out
+[8/17/2018 11:47:50 AM] [User.ReceiveData] » Regev11 tried to login with wrong ticket id!
+[8/17/2018 1:13:04 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[8/17/2018 1:23:57 PM] [User.ReceiveData] » [DEBUG] Heim1 No TCP Client - kick out
+[8/17/2018 1:36:20 PM] [User.ReceiveData] » [DEBUG] Heim1 No TCP Client - kick out
+[8/17/2018 1:50:19 PM] [User.ReceiveData] » [DEBUG] Blessu No TCP Client - kick out
+[8/18/2018 12:00:46 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:46 - 18/08/2018
+[8/18/2018 10:58:51 AM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/18/2018 11:58:20 AM] [User.ReceiveData] » MauriceWR tried to equip DF48 but he haven't it!
+[8/18/2018 12:18:41 PM] [User.ReceiveData] » galemnsor tried to login with wrong ticket id!
+[8/18/2018 12:58:58 PM] [User.ReceiveData] » [DEBUG] Heim1 No TCP Client - kick out
+[8/18/2018 3:34:32 PM] [User.ReceiveData] » [DEBUG] LucaITWarrock No TCP Client - kick out
+[8/18/2018 4:20:21 PM] [User.ReceiveData] » Astrix tried to delete CQ98 but he haven't it!
+[8/18/2018 8:45:42 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/18/2018 9:51:29 PM] [User.ReceiveData] » [DEBUG] Exit3rz No TCP Client - kick out
+[8/18/2018 10:28:56 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/19/2018 12:00:21 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:21 - 19/08/2018
+[8/19/2018 10:42:47 AM] [User.ReceiveData] » [DEBUG] Exit3rz No TCP Client - kick out
+[8/19/2018 12:06:10 PM] [User.ReceiveData] » D4ngerouSkiller tried to delete CQ46 but he haven't it!
+[8/19/2018 12:52:25 PM] [User.ReceiveData] » D4ngerouSkiller tried to delete CR56 but he haven't it!
+[8/19/2018 8:40:04 PM] [User.ReceiveData] » xDaylight tried to equip DG_VSS_BlackShark in the slot 7 [NOT ALLOWED!]
+[8/19/2018 10:00:28 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/20/2018 12:00:42 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:42 - 20/08/2018
+[8/20/2018 9:27:09 AM] [User.ReceiveData] » Unknown Clan Subtype 16
+[8/20/2018 9:27:10 AM] [User.ReceiveData] » Unknown Clan Subtype 16
+[8/20/2018 11:28:09 AM] [User.ReceiveData] » [DEBUG] El3ctriz No TCP Client - kick out
+[8/20/2018 12:01:01 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/20/2018 12:09:12 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/20/2018 1:02:52 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[8/20/2018 2:30:06 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/20/2018 2:47:00 PM] [User.ReceiveData] » [DEBUG] KingBoy No TCP Client - kick out
+[8/20/2018 4:45:40 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/20/2018 6:59:10 PM] [User.ReceiveData] » kingvip tried to login with wrong ticket id!
+[8/20/2018 6:59:10 PM] [User.ReceiveData] » kingvip tried to login with wrong ticket id!
+[8/20/2018 8:41:46 PM] [User.ReceiveData] » [DEBUG] shma No TCP Client - kick out
+[8/20/2018 10:16:22 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/21/2018 12:00:27 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:27 - 21/08/2018
+[8/21/2018 2:58:56 PM] [User.ReceiveData] » MauriceWR tried to equip DE29 but he haven't it!
+[8/21/2018 8:20:15 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[8/21/2018 11:25:39 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/22/2018 12:00:19 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:19 - 22/08/2018
+[8/22/2018 9:25:46 AM] [User.ReceiveData] » radwanakrm tried to login with wrong ticket id!
+[8/22/2018 11:43:38 AM] [User.ReceiveData] » [DEBUG] Astrix No TCP Client - kick out
+[8/22/2018 4:18:12 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/22/2018 5:53:22 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[8/22/2018 5:53:23 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[8/22/2018 6:27:21 PM] [User.ReceiveData] » [DEBUG] JubeKrz No TCP Client - kick out
+[8/22/2018 9:37:49 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/22/2018 11:49:06 PM] [User.ReceiveData] » [DEBUG] JubeKrz No TCP Client - kick out
+[8/23/2018 12:00:41 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:41 - 23/08/2018
+[8/23/2018 4:10:45 AM] [User.ReceiveData] » [DEBUG] ActualCheater No TCP Client - kick out
+[8/23/2018 11:18:53 AM] [User.ReceiveData] » [DEBUG] Astrix No TCP Client - kick out
+[8/23/2018 12:49:03 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/23/2018 1:36:47 PM] [User.ReceiveData] » [DEBUG] Astrix No TCP Client - kick out
+[8/23/2018 2:51:01 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/23/2018 11:07:31 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/24/2018 12:00:30 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:30 - 24/08/2018
+[8/24/2018 4:01:40 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/25/2018 12:00:07 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:07 - 25/08/2018
+[8/25/2018 12:57:17 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/25/2018 2:28:44 PM] [User.ReceiveData] » [DEBUG] LucaITWarrock No TCP Client - kick out
+[8/25/2018 7:46:49 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/25/2018 8:29:34 PM] [User.ReceiveData] » [DEBUG] Heim1 No TCP Client - kick out
+[8/26/2018 12:00:40 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:40 - 26/08/2018
+[8/26/2018 1:06:37 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/26/2018 2:51:08 PM] [User.ReceiveData] » [DEBUG] KING No TCP Client - kick out
+[8/26/2018 7:32:45 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/27/2018 12:00:33 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:33 - 27/08/2018
+[8/27/2018 1:01:37 PM] [User.ReceiveData] » kreem2love tried to login with wrong ticket id!
+[8/27/2018 5:15:55 PM] [User.ReceiveData] » [DEBUG] KING No TCP Client - kick out
+[8/27/2018 5:57:38 PM] [User.ReceiveData] » [DEBUG] KING No TCP Client - kick out
+[8/27/2018 9:03:32 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/28/2018 12:00:20 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:20 - 28/08/2018
+[8/28/2018 1:25:41 AM] [User.ReceiveData] » [DEBUG] JubeKrz No TCP Client - kick out
+[8/28/2018 1:29:29 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/29/2018 12:00:43 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:43 - 29/08/2018
+[8/29/2018 10:29:44 AM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/29/2018 11:18:42 AM] [User.ReceiveData] » [DEBUG] Astrix No TCP Client - kick out
+[8/29/2018 11:22:34 AM] [User.ReceiveData] » Astrix tried to equip DF94 but he haven't it!
+[8/30/2018 12:00:10 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:10 - 30/08/2018
+[8/30/2018 12:22:44 PM] [User.ReceiveData] » Dany14 tried to login with wrong ticket id!
+[8/30/2018 4:11:36 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[8/30/2018 6:35:41 PM] [User.ReceiveData] » [DEBUG] D4ru No TCP Client - kick out
+[8/31/2018 12:00:58 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:58 - 31/08/2018
+[8/31/2018 11:00:47 PM] [User.ReceiveData] » [DEBUG] Negative No TCP Client - kick out
+[9/1/2018 12:00:55 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:55 - 01/09/2018
+[9/1/2018 12:10:10 PM] [User.ReceiveData] » [DEBUG] Astrix No TCP Client - kick out
+[9/1/2018 3:23:40 PM] [User.ReceiveData] » [DEBUG] Negative No TCP Client - kick out
+[9/1/2018 4:36:15 PM] [User.ReceiveData] » [DEBUG] Negative No TCP Client - kick out
+[9/1/2018 7:23:59 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[9/1/2018 11:57:26 PM] [User.ReceiveData] » [DEBUG] LucaITWarrock No TCP Client - kick out
+[9/2/2018 12:00:26 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:26 - 02/09/2018
+[9/2/2018 12:02:36 AM] [User.ReceiveData] » [DEBUG] LucaITWarrock No TCP Client - kick out
+[9/2/2018 1:07:50 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[9/3/2018 12:00:31 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:31 - 03/09/2018
+[9/3/2018 4:25:20 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[9/3/2018 4:25:22 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[9/3/2018 4:25:22 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[9/3/2018 4:25:33 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[9/4/2018 12:00:47 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:47 - 04/09/2018
+[9/4/2018 3:58:47 AM] [User.ReceiveData] » Unknown Clan Subtype 16
+[9/4/2018 12:34:40 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[9/4/2018 4:47:08 PM] [User.ReceiveData] » LucaITWarrock tried to equip DF_MPX_Blackshark in the class 2 [NOT ALLOWED!]
+[9/5/2018 12:00:08 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:08 - 05/09/2018
+[9/5/2018 1:24:21 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[9/5/2018 1:49:27 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[9/5/2018 2:35:33 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[9/5/2018 6:42:54 PM] [User.ReceiveData] » [DEBUG] Heim1 No TCP Client - kick out
+[9/5/2018 10:16:15 PM] [User.ReceiveData] » [DEBUG] Atlantic No TCP Client - kick out
+[9/6/2018 12:00:47 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:47 - 06/09/2018
+[9/6/2018 12:14:25 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[9/6/2018 3:28:05 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[9/7/2018 12:00:28 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:28 - 07/09/2018
+[9/7/2018 10:23:33 AM] [User.ReceiveData] » [DEBUG] KingBoy No TCP Client - kick out
+[9/7/2018 11:36:35 AM] [User.ReceiveData] » [DEBUG] Astrix No TCP Client - kick out
+[9/7/2018 12:43:56 PM] [User.ReceiveData] » [DEBUG] Astrix No TCP Client - kick out
+[9/8/2018 12:00:52 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:52 - 08/09/2018
+[9/8/2018 1:12:01 PM] [User.ReceiveData] » [DEBUG] Atlantic No TCP Client - kick out
+[9/8/2018 6:11:05 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[9/9/2018 12:00:31 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:31 - 09/09/2018
+[9/9/2018 12:24:50 PM] [User.ReceiveData] » [DEBUG] Atlantic No TCP Client - kick out
+[9/9/2018 12:53:25 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[9/9/2018 2:18:28 PM] [User.ReceiveData] » [DEBUG] Astrix No TCP Client - kick out
+[9/9/2018 3:14:29 PM] [User.ReceiveData] » [DEBUG] KingBoy No TCP Client - kick out
+[9/9/2018 4:19:52 PM] [User.ReceiveData] » LucaITWarrock tried to delete DJ07 but he haven't it!
+[9/10/2018 12:00:47 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:47 - 10/09/2018
+[9/10/2018 2:44:25 PM] [User.ReceiveData] » [DEBUG] [MOD]-Katana No TCP Client - kick out
+[9/10/2018 2:53:39 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[9/10/2018 3:29:19 PM] [User.ReceiveData] » [DEBUG] Atlantic No TCP Client - kick out
+[9/10/2018 3:45:41 PM] [User.ReceiveData] » LucaITWarrock tried to delete CD07 but he haven't it!
+[9/10/2018 7:45:28 PM] [TCP_Client.OnReceive] » Unhandled TCP Packet (30) ResTary 0
+[9/10/2018 7:45:48 PM] [TCP_Client.OnReceive] » Unhandled TCP Packet (30) ResTary 0
+[9/11/2018 12:00:59 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:59 - 11/09/2018
+[9/11/2018 8:36:44 AM] [User.ReceiveData] » [DEBUG] HacayWR2 No TCP Client - kick out
+[9/11/2018 8:42:44 AM] [User.ReceiveData] » [DEBUG] HacayWR2 No TCP Client - kick out

@@ -1,0 +1,164 @@
+/* Start up: 7/24/2018 12:33:35 AM */
+
+[7/24/2018 12:33:37 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:33:37 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:33:37 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:33:37 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:33:37 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:33:37 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:33:37 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:46:58 AM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 370
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1976
+[7/24/2018 12:49:09 AM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 370
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1904
+/* Start up: 7/24/2018 12:56:19 AM */
+
+[7/24/2018 12:56:22 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:56:22 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:56:22 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:56:22 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:56:22 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:56:22 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 12:56:22 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 1:06:27 AM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 370
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1976
+[7/24/2018 1:11:16 AM] [User.ReceiveData] » [DEBUG] BSTJoJo No TCP Client - kick out
+[7/24/2018 1:29:12 AM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 370
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1984
+/* Start up: 7/24/2018 2:06:43 AM */
+
+[7/24/2018 2:06:46 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:06:46 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:06:46 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:06:46 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:06:46 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:06:46 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:06:46 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+/* Start up: 7/24/2018 2:08:52 AM */
+
+[7/24/2018 2:08:54 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:08:54 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:08:54 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:08:54 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:08:54 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:08:54 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:08:54 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 2:26:51 AM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/24/2018 9:11:36 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/24/2018 9:21:39 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/24/2018 9:50:43 AM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/24/2018 10:41:47 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/24/2018 1:31:08 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/24/2018 5:58:20 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/24/2018 6:44:00 PM] [User.ReceiveData] » underst00d2 tried to login with wrong ticket id!
+[7/24/2018 6:47:42 PM] [User.ReceiveData] » [DEBUG] Maurice320x No TCP Client - kick out
+[7/24/2018 6:48:23 PM] [User.ReceiveData] » lebonalmicahah123 -> error with  Ticket ID
+[7/24/2018 6:49:12 PM] [User.ReceiveData] » lebonalmicahah123 -> error with  Ticket ID
+[7/24/2018 7:41:12 PM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 370
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1984
+[7/24/2018 7:41:34 PM] [User.ReceiveData] » Something went wrong while leaving room
+[7/24/2018 8:04:25 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/24/2018 8:18:39 PM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 370
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1984
+/* Start up: 7/24/2018 8:21:58 PM */
+
+[7/24/2018 8:22:02 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:22:02 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:22:03 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:22:03 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:22:03 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:22:03 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:22:03 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:22:04 PM] [Program.Main] » Error: Cannot Initialize a new socket on the port 10375
+/* Start up: 7/24/2018 8:23:13 PM */
+
+[7/24/2018 8:23:15 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:23:15 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:23:15 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:23:15 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:23:15 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:23:15 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:23:15 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:23:16 PM] [Program.Main] » Error: Cannot Initialize a new socket on the port 10375
+/* Start up: 7/24/2018 8:26:45 PM */
+
+[7/24/2018 8:26:48 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:26:48 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:26:48 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:26:48 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:26:48 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:26:48 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:26:48 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:27:54 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+/* Start up: 7/24/2018 8:35:44 PM */
+
+[7/24/2018 8:35:47 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:35:47 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:35:47 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:35:47 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:35:47 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:35:47 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:35:47 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+/* Start up: 7/24/2018 8:49:48 PM */
+
+[7/24/2018 8:49:50 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:49:50 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:49:50 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:49:50 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:49:50 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:49:50 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 8:49:50 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+/* Start up: 7/24/2018 9:07:01 PM */
+
+[7/24/2018 9:07:03 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 9:07:03 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 9:07:03 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 9:07:03 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 9:07:03 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 9:07:03 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 9:07:03 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/24/2018 9:29:54 PM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 370
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1976
+[7/24/2018 9:34:44 PM] [User.ReceiveData] » JoJo tried to equip D8_M249_V in the class 3 [NOT ALLOWED!]
+[7/24/2018 9:34:58 PM] [User.ReceiveData] » JoJo tried to equip D9_M249_8TH in the class 3 [NOT ALLOWED!]
+[7/24/2018 9:38:59 PM] [User.ReceiveData] » JoJo tried to equip D8_M249_V in the class 3 [NOT ALLOWED!]
+[7/24/2018 9:39:18 PM] [User.ReceiveData] » JoJo tried to equip DH_M249_Veteran in the slot 7 [NOT ALLOWED!]
+[7/24/2018 9:40:06 PM] [User.ReceiveData] » JoJo tried to equip D9_M249_8TH in the class 3 [NOT ALLOWED!]
+[7/24/2018 9:41:03 PM] [User.ReceiveData] » JoJo tried to equip D8_M249_V in the class 3 [NOT ALLOWED!]
+[7/24/2018 10:05:29 PM] [User.ReceiveData] » JoJo tried to equip DH_M249_Veteran in the slot 7 [NOT ALLOWED!]
+[7/24/2018 10:05:39 PM] [User.ReceiveData] » JoJo tried to equip D8_M249_V in the class 3 [NOT ALLOWED!]
+[7/24/2018 11:28:15 PM] [User.ReceiveData] » JoJo tried to equip DH_M249_Veteran in the class 4 [NOT ALLOWED!]
+[7/24/2018 11:28:25 PM] [User.ReceiveData] » JoJo tried to equip DH_M249_Veteran in the slot 7 [NOT ALLOWED!]
+[7/24/2018 11:28:42 PM] [User.ReceiveData] » JoJo tried to equip D8_M249_V in the class 3 [NOT ALLOWED!]
+[7/24/2018 11:29:23 PM] [User.ReceiveData] » JoJo tried to equip D9_M249_8TH in the slot 4 [NOT ALLOWED!]
+[7/24/2018 11:30:11 PM] [User.ReceiveData] » lebonalmicahah123 -> error with  Ticket ID
+[7/24/2018 11:30:41 PM] [User.ReceiveData] » lebonalmicahah123 -> error with  Ticket ID
+[7/24/2018 11:31:10 PM] [User.ReceiveData] » lebonalmicahah123 -> error with  Ticket ID
+[7/24/2018 11:37:53 PM] [User.ReceiveData] » JoJo tried to equip DH_M249_Veteran in the class 4 [NOT ALLOWED!]
+[7/25/2018 12:00:08 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:08 - 25/07/2018
+[7/25/2018 12:27:12 AM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/25/2018 12:27:12 AM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/25/2018 12:34:02 AM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 370
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1976
+[7/25/2018 12:53:40 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/25/2018 1:53:55 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/25/2018 9:21:10 AM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/25/2018 9:47:17 AM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/25/2018 11:31:50 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/25/2018 11:33:03 AM] [User.ReceiveData] » Fkinghaze tried to delete BA27 but he haven't it!
+[7/25/2018 11:58:02 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/25/2018 12:40:05 PM] [User.ReceiveData] » [DEBUG] need No TCP Client - kick out
+[7/25/2018 1:43:20 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/25/2018 2:17:16 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/25/2018 2:28:17 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/25/2018 3:44:28 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/25/2018 5:15:43 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/25/2018 5:15:43 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/25/2018 5:15:46 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/25/2018 5:15:48 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/25/2018 9:28:47 PM] [User.ReceiveData] » [DEBUG] MercyHunt No TCP Client - kick out
+[7/25/2018 10:46:58 PM] [TCP_Client.OnReceive] » User Sniper throw more than 50 rockets
+[7/25/2018 11:00:27 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/26/2018 12:00:08 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:08 - 26/07/2018
+[7/26/2018 12:17:04 AM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 370
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1984

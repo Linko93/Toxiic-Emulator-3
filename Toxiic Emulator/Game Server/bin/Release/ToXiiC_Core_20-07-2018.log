@@ -1,0 +1,30 @@
+/* Start up: 7/20/2018 3:53:15 AM */
+
+[7/20/2018 3:53:18 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/20/2018 3:53:18 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/20/2018 3:53:18 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/20/2018 3:53:18 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/20/2018 3:53:18 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/20/2018 3:53:18 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/20/2018 3:53:18 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/20/2018 9:49:42 AM] [User.ReceiveData] » [DEBUG] MercyHunt No TCP Client - kick out
+[7/20/2018 11:18:09 AM] [User.ReceiveData] » [DEBUG] MercyHunt No TCP Client - kick out
+[7/20/2018 5:25:22 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/20/2018 7:15:00 PM] [User.ReceiveData] » [DEBUG] dezert No TCP Client - kick out
+[7/20/2018 9:48:20 PM] [User.ReceiveData] » [DEBUG] MrProMan No TCP Client - kick out
+[7/21/2018 12:00:01 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:01 - 21/07/2018
+[7/21/2018 9:42:30 AM] [ExecutionContext.RunInternal] » Error at update:Object reference not set to an instance of an object.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 488
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1975
+[7/21/2018 10:43:00 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/21/2018 10:48:13 AM] [User.ReceiveData] » [DEBUG] Mrpro No TCP Client - kick out
+[7/21/2018 12:40:09 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/21/2018 2:04:02 PM] [ExecutionContext.RunInternal] » Error at update:Object reference not set to an instance of an object.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 488
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1975
+[7/21/2018 4:30:44 PM] [User.ReceiveData] » KingSlayer tried to delete GF16 but he haven't it!
+[7/21/2018 5:55:21 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/21/2018 5:57:12 PM] [User.ReceiveData] » [DEBUG] Grendizer No TCP Client - kick out
+[7/21/2018 7:26:34 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/21/2018 7:26:36 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/21/2018 8:21:12 PM] [User.ReceiveData] » [DEBUG] Mrpro No TCP Client - kick out
+[7/21/2018 10:00:45 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/22/2018 12:00:53 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:53 - 22/07/2018

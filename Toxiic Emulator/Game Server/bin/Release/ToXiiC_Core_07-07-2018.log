@@ -1,0 +1,67 @@
+/* Start up: 7/7/2018 9:18:34 PM */
+
+[7/7/2018 9:18:36 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:18:36 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:18:36 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:18:36 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:18:36 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:18:36 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:18:36 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+/* Start up: 7/7/2018 9:21:42 PM */
+
+[7/7/2018 9:21:44 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:21:44 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:21:44 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:21:44 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:21:44 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:21:44 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/7/2018 9:21:44 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/8/2018 12:00:46 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:46 - 08/07/2018
+[7/9/2018 12:00:05 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:05 - 09/07/2018
+[7/10/2018 12:00:25 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:25 - 10/07/2018
+[7/11/2018 12:00:50 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:50 - 11/07/2018
+[7/11/2018 6:34:02 AM] [User.ReceiveData] » [DEBUG] Extrapow3rz No TCP Client - kick out
+[7/11/2018 2:14:57 PM] [TCP_Client.OnReceive] » Unhandled TCP Packet (25) GreenLord 0
+[7/12/2018 12:00:26 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:26 - 12/07/2018
+[7/12/2018 9:20:05 AM] [User.ReceiveData] » [DEBUG] BruZzZ19 No TCP Client - kick out
+[7/12/2018 1:13:19 PM] [Room.Start] » Could not find the vehicle with the code FUCK!
+[7/12/2018 2:46:45 PM] [User.ReceiveData] » [DEBUG] Generall No TCP Client - kick out
+[7/13/2018 12:00:07 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:07 - 13/07/2018
+[7/13/2018 11:03:34 PM] [ExecutionContext.RunInternal] » Error at update:Object reference not set to an instance of an object.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 488
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1975
+[7/14/2018 12:00:50 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:50 - 14/07/2018
+[7/15/2018 12:00:32 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:32 - 15/07/2018
+[7/16/2018 12:00:10 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:10 - 16/07/2018
+[7/16/2018 4:30:48 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/16/2018 4:49:38 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/17/2018 12:00:21 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:21 - 17/07/2018
+[7/17/2018 2:19:00 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/17/2018 5:56:50 PM] [User.ReceiveData] » [DEBUG] MrProMan No TCP Client - kick out
+[7/17/2018 9:32:51 PM] [User.ReceiveData] » [DEBUG] MercyHunt No TCP Client - kick out
+[7/17/2018 10:40:53 PM] [ExecutionContext.RunInternal] » Error at update:Object reference not set to an instance of an object.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 488
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1975
+[7/18/2018 12:00:17 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:17 - 18/07/2018
+[7/18/2018 8:00:50 AM] [User.ReceiveData] » [DEBUG] MercyHunt No TCP Client - kick out
+[7/18/2018 11:22:30 AM] [User.ReceiveData] » [DEBUG] MrProMan No TCP Client - kick out
+[7/18/2018 1:37:50 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/18/2018 2:11:44 PM] [User.ReceiveData] » [DEBUG] MercyHunt No TCP Client - kick out
+[7/18/2018 3:53:35 PM] [User.ReceiveData] » abdsleman tried to login with wrong ticket id!
+[7/18/2018 4:20:39 PM] [TCP_Client.OnReceive] » Unhandled TCP Packet (30) Katana 1
+[7/18/2018 7:12:11 PM] [ExecutionContext.RunInternal] » Error at update:Object reference not set to an instance of an object.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 488
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1975
+[7/19/2018 12:00:29 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:29 - 19/07/2018
+[7/19/2018 8:56:50 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/19/2018 9:49:10 AM] [User.ReceiveData] » [DEBUG] MercyHunt No TCP Client - kick out
+[7/19/2018 10:29:24 AM] [User.ReceiveData] » [DEBUG] Mrpro No TCP Client - kick out
+[7/19/2018 3:15:11 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/19/2018 3:43:14 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/19/2018 3:43:17 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/19/2018 4:13:30 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/19/2018 4:13:31 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/19/2018 4:13:31 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/19/2018 4:13:31 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/19/2018 4:13:32 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/19/2018 4:13:34 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/19/2018 5:40:55 PM] [User.ReceiveData] » [DEBUG] MercyHunt No TCP Client - kick out
+[7/19/2018 8:48:59 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/19/2018 9:32:19 PM] [User.ReceiveData] » [DEBUG] dezert No TCP Client - kick out

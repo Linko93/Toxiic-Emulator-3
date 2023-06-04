@@ -1,0 +1,9 @@
+F:\WarRock Emu\Montana\Game Server\bin\x64\Release\GameServer.exe.config
+F:\WarRock Emu\Montana\Game Server\bin\x64\Release\GameServer.exe
+F:\WarRock Emu\Montana\Game Server\bin\x64\Release\GameServer.pdb
+F:\WarRock Emu\Montana\Game Server\obj\x64\Release\GameServer.csprojResolveAssemblyReference.cache
+F:\WarRock Emu\Montana\Game Server\obj\x64\Release\GameServer.exe
+F:\WarRock Emu\Montana\Game Server\obj\x64\Release\GameServer.pdb
+F:\WarRock Emu\Montana\Game Server\bin\Release\GameServer.exe.config
+F:\WarRock Emu\Montana\Game Server\bin\Release\GameServer.exe
+F:\WarRock Emu\Montana\Game Server\bin\Release\GameServer.pdb

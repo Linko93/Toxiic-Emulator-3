@@ -1,0 +1,19 @@
+F:\WarRock Emu\Montana\Login Server\bin\Release\LoginServer.exe.config
+F:\WarRock Emu\Montana\Login Server\bin\Release\LoginServer.exe
+F:\WarRock Emu\Montana\Login Server\bin\Release\LoginServer.pdb
+F:\WarRock Emu\Montana\Login Server\obj\Release\LoginServer.exe
+F:\WarRock Emu\Montana\Login Server\obj\Release\LoginServer.pdb
+C:\Users\Administrator\Desktop\Login Server\bin\Release\LoginServer.exe.config
+C:\Users\Administrator\Desktop\Login Server\obj\Release\LoginServer.exe
+C:\Users\Administrator\Desktop\Login Server\obj\Release\LoginServer.pdb
+C:\Users\Administrator\Desktop\Login Server\bin\Release\LoginServer.exe
+C:\Users\Administrator\Desktop\Login Server\bin\Release\LoginServer.pdb
+C:\Users\Administrator\Desktop\Login Server\obj\Release\LoginServer.csprojResolveAssemblyReference.cache
+F:\WarRock Emu\Montana\Login Server\obj\Release\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server\Login Server\bin\Release\LoginServer.exe.config
+C:\Users\Administrator\Desktop\Server\Login Server\bin\Release\LoginServer.exe
+C:\Users\Administrator\Desktop\Server\Login Server\bin\Release\LoginServer.pdb
+C:\Users\Administrator\Desktop\Server\Login Server\obj\Release\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server\Login Server\obj\Release\LoginServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Server\Login Server\obj\Release\LoginServer.exe
+C:\Users\Administrator\Desktop\Server\Login Server\obj\Release\LoginServer.pdb

@@ -1,0 +1,63 @@
+/* Start up: 2/2/2019 5:19:50 PM */
+
+[2/2/2019 5:19:52 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:19:52 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:19:52 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:19:52 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:19:52 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:19:52 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:19:52 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+/* Start up: 2/2/2019 5:22:57 PM */
+
+[2/2/2019 5:22:59 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:22:59 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:22:59 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:22:59 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:22:59 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:22:59 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[2/2/2019 5:22:59 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[2/3/2019 12:00:05 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:05 - 03/02/2019
+[2/4/2019 12:00:22 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:22 - 04/02/2019
+[2/5/2019 12:00:42 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:42 - 05/02/2019
+[2/5/2019 12:33:20 AM] [User.ReceiveData] » Unknown Clan Subtype 16
+[2/6/2019 12:00:06 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:06 - 06/02/2019
+[2/6/2019 12:00:13 AM] [User.ReceiveData] » [DEBUG] [MOD]Inf1nty4 No TCP Client - kick out
+[2/6/2019 1:13:45 AM] [User.ReceiveData] » [DEBUG] Rush No TCP Client - kick out
+[2/6/2019 4:12:52 AM] [User.ReceiveData] » [DEBUG] [MOD]Inf1nty4 No TCP Client - kick out
+[2/7/2019 12:00:29 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:29 - 07/02/2019
+[2/8/2019 12:00:45 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:45 - 08/02/2019
+[2/9/2019 12:00:05 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:05 - 09/02/2019
+[2/10/2019 12:00:23 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:23 - 10/02/2019
+[2/11/2019 12:00:42 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:42 - 11/02/2019
+[2/12/2019 12:00:10 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:10 - 12/02/2019
+[2/13/2019 12:00:34 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:34 - 13/02/2019
+[2/14/2019 12:00:02 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:02 - 14/02/2019
+[2/15/2019 12:00:29 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:29 - 15/02/2019
+[2/16/2019 12:00:51 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:51 - 16/02/2019
+[2/17/2019 12:00:08 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:08 - 17/02/2019
+[2/18/2019 12:00:25 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:25 - 18/02/2019
+[2/19/2019 12:00:48 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:48 - 19/02/2019
+[2/20/2019 12:00:16 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:16 - 20/02/2019
+[2/21/2019 12:00:46 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:46 - 21/02/2019
+[2/22/2019 12:00:11 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:11 - 22/02/2019
+[2/23/2019 12:00:34 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:34 - 23/02/2019
+[2/24/2019 12:00:49 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:49 - 24/02/2019
+[2/25/2019 12:00:07 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:07 - 25/02/2019
+[2/25/2019 7:58:09 PM] [User.ReceiveData] » [DEBUG] XLucaITWR No TCP Client - kick out
+[2/26/2019 12:00:31 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:31 - 26/02/2019
+[2/27/2019 12:00:03 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:03 - 27/02/2019
+[2/28/2019 12:00:36 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:36 - 28/02/2019
+[3/1/2019 12:00:01 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:01 - 01/03/2019
+[3/2/2019 12:00:30 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:30 - 02/03/2019
+[3/3/2019 12:00:51 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:51 - 03/03/2019
+[3/4/2019 12:00:18 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:18 - 04/03/2019
+[3/5/2019 12:00:51 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:51 - 05/03/2019
+[3/6/2019 12:00:23 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:23 - 06/03/2019
+[3/7/2019 12:00:53 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:53 - 07/03/2019
+[3/8/2019 12:00:11 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:11 - 08/03/2019
+[3/9/2019 12:00:41 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:41 - 09/03/2019
+[3/10/2019 12:00:08 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:08 - 10/03/2019
+[3/10/2019 7:03:08 PM] [User.ReceiveData] » NICKNAME tried to equip DC04 but he haven't it!
+[3/10/2019 7:05:40 PM] [User.ReceiveData] » NICKNAME tried to equip DC04 but he haven't it!
+[3/10/2019 7:05:57 PM] [User.ReceiveData] » NICKNAME tried to equip DC04 but he haven't it!
+[3/11/2019 12:00:31 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:31 - 11/03/2019

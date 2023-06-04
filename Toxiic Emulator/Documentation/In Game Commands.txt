@@ -1,0 +1,38 @@
+ _____   ___ __  __  _____ _____   ___  _  __              ___   ___   __    __ 
+/__   \ /___\\ \/ /  \_   \\_   \ / __\( )/ _\            / __\ /___\ /__\  /__\
+  / /\///  // \  /    / /\/ / /\// /   |/ \ \            / /   //  /// \// /_\  
+ / /  / \_//  /  \ /\/ /_/\/ /_ / /___    _\ \          / /___/ \_/// _  \//__  
+ \/   \___/  /_/\_\\____/\____/ \____/    \__/          \____/\___/ \/ \_/\__/  
+__________________________________________________________________________________
+
+Command					||     Rank 	|| Explaination
+--------------------------------------- ||	-- 	|| ---------------------------------
+/notice <message>			||	3+	|| Send a notice to the whole server
+/ban <user> <hours> <reason>		||	5+	|| Ban the user for hours (put -1 if permanent) (reason is optional)
+/extendtime <minutes>			||	3+	|| Extend the game time left in minutes
+/reload					||	5+	|| Reload all classes (example: you've changed care package items, just change in db and do /reload)
+/endgame				||	3+	|| End the actual game
+/uptime 				||	1+	|| See from how much time is the server running
+/gmmode					||  	3+	|| ON/OFF - Be invisible on userlist and deny any PMs
+/hwban	<user>				||  	5+	|| Hard ware ban for (hwid) & mac address
+/givecoupon <user> <amount>		||  	5+	|| Give coupons to a user
+/givecash <user> <amount>		||	4+	|| Give cash to a user
+/giveitem <user> <item> <days>		||	4+	|| Give a item to a user
+/giveroom <user> <item> <days>		||	4+	|| Give a item to all the room
+/map <id>				||	3+	|| Set a map by ID
+/event <seconds> <exp> <dinar>		||	4+	|| Start an EXP or DINAR event (example: 120 4 2) -> Exp event for 2 min with 400% exp and 200% dinar
+/setlevel <user> <level>		||	5+	|| Set user level
+/userinfo <user>			||	5+	|| Get user informations
+/roominfo <id>				||	5+	|| Get room informations
+/kick <user>				||	3+	|| Kick user from the server
+/kickr <user>				||	3+	|| Kick user from the room
+/mute <user> <minutes>			||	3+	|| Mute user for a X of time
+/unmute <user> 				||	3+	|| Unmute user
+/stop					||	6	|| Stop the server
+/flushevent <user> <id>			||	4+	|| Remove event id from users_events for a user
+--------------------------------------- ||	-- 	|| ---------------------------------
+--------------------------------------- ||    CUSTOM	|| ---------------------------------
+--------------------------------------- ||	-- 	|| ---------------------------------
+/mlg					||	4+	|| Send MLG sound
+/weed					||	4+	|| Send Smoke Weed sound
+/messagebox <text>			||	4+	|| Send a messagebox to all users

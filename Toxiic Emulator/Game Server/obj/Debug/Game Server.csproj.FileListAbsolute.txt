@@ -1,0 +1,7 @@
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\bin\Debug\Game Server.exe.config
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\obj\Debug\Game Server.exe
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\obj\Debug\Game Server.pdb
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\bin\Debug\Game Server.exe
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\bin\Debug\Game Server.pdb
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\bin\Debug\Mysql.Data.dll
+F:\WarRock Emu\Montana\New Core\Game Server\Game Server\obj\Debug\Game Server.csprojResolveAssemblyReference.cache

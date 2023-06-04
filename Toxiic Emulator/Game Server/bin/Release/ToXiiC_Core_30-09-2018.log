@@ -1,0 +1,145 @@
+/* Start up: 9/30/2018 3:23:51 PM */
+
+[9/30/2018 3:23:53 PM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[9/30/2018 3:23:53 PM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[9/30/2018 3:23:53 PM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[9/30/2018 3:23:53 PM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[9/30/2018 3:23:53 PM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[9/30/2018 3:23:53 PM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[9/30/2018 3:23:53 PM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[9/30/2018 6:35:22 PM] [User.ReceiveData] » [DEBUG] xJake No TCP Client - kick out
+[10/1/2018 12:00:08 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:08 - 01/10/2018
+[10/2/2018 12:00:04 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:04 - 02/10/2018
+[10/3/2018 12:00:51 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:51 - 03/10/2018
+[10/4/2018 12:00:47 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:47 - 04/10/2018
+[10/5/2018 12:00:31 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:31 - 05/10/2018
+[10/6/2018 12:00:20 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:20 - 06/10/2018
+[10/7/2018 12:00:50 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:50 - 07/10/2018
+[10/7/2018 12:55:15 PM] [User.ReceiveData] » XLucaITWR tried to equip DA67 but he haven't it!
+[10/7/2018 12:55:23 PM] [User.ReceiveData] » XLucaITWR tried to equip DA67 but he haven't it!
+[10/7/2018 10:11:25 PM] [User.ReceiveData] » XLucaITWR tried to delete D101 but he haven't it!
+[10/7/2018 10:11:25 PM] [User.ReceiveData] » XLucaITWR tried to delete D101 but he haven't it!
+[10/7/2018 10:11:25 PM] [User.ReceiveData] » XLucaITWR tried to delete D101 but he haven't it!
+[10/7/2018 10:11:25 PM] [User.ReceiveData] » XLucaITWR tried to delete CA01 but he haven't it!
+[10/7/2018 10:11:26 PM] [User.ReceiveData] » XLucaITWR tried to delete CC05 but he haven't it!
+[10/7/2018 10:11:27 PM] [User.ReceiveData] » XLucaITWR tried to delete CD03 but he haven't it!
+[10/7/2018 10:11:28 PM] [User.ReceiveData] » XLucaITWR tried to delete CD07 but he haven't it!
+[10/7/2018 10:11:28 PM] [User.ReceiveData] » XLucaITWR tried to delete CI01 but he haven't it!
+[10/7/2018 10:11:29 PM] [User.ReceiveData] » XLucaITWR tried to delete CJ01 but he haven't it!
+[10/7/2018 10:11:31 PM] [User.ReceiveData] » XLucaITWR tried to delete CJ01 but he haven't it!
+[10/7/2018 10:11:31 PM] [User.ReceiveData] » XLucaITWR tried to delete CJ01 but he haven't it!
+[10/7/2018 10:11:31 PM] [User.ReceiveData] » XLucaITWR tried to delete CJ01 but he haven't it!
+[10/7/2018 10:11:31 PM] [User.ReceiveData] » XLucaITWR tried to delete CJ02 but he haven't it!
+[10/7/2018 10:12:03 PM] [User.ReceiveData] » XLucaITWR tried to delete DC72 but he haven't it!
+[10/7/2018 10:12:03 PM] [User.ReceiveData] » XLucaITWR tried to delete DC72 but he haven't it!
+[10/7/2018 10:12:03 PM] [User.ReceiveData] » XLucaITWR tried to delete DC72 but he haven't it!
+[10/7/2018 10:12:03 PM] [User.ReceiveData] » XLucaITWR tried to delete DC72 but he haven't it!
+[10/7/2018 10:12:03 PM] [User.ReceiveData] » XLucaITWR tried to delete DC72 but he haven't it!
+[10/7/2018 10:12:03 PM] [User.ReceiveData] » XLucaITWR tried to delete DC72 but he haven't it!
+[10/7/2018 10:12:03 PM] [User.ReceiveData] » XLucaITWR tried to delete DC72 but he haven't it!
+[10/7/2018 10:12:03 PM] [User.ReceiveData] » XLucaITWR tried to delete DC72 but he haven't it!
+[10/7/2018 10:12:03 PM] [User.ReceiveData] » XLucaITWR tried to delete DC72 but he haven't it!
+[10/7/2018 10:12:03 PM] [User.ReceiveData] » XLucaITWR tried to delete DC72 but he haven't it!
+[10/7/2018 10:12:06 PM] [User.ReceiveData] » XLucaITWR tried to delete DC87 but he haven't it!
+[10/7/2018 10:12:08 PM] [User.ReceiveData] » XLucaITWR tried to delete DE49 but he haven't it!
+[10/7/2018 10:12:08 PM] [User.ReceiveData] » XLucaITWR tried to delete DE51 but he haven't it!
+[10/7/2018 10:12:08 PM] [User.ReceiveData] » XLucaITWR tried to delete DE51 but he haven't it!
+[10/7/2018 10:12:09 PM] [User.ReceiveData] » XLucaITWR tried to delete DE56 but he haven't it!
+[10/7/2018 10:12:09 PM] [User.ReceiveData] » XLucaITWR tried to delete DE59 but he haven't it!
+[10/7/2018 10:12:09 PM] [User.ReceiveData] » XLucaITWR tried to delete DE62 but he haven't it!
+[10/7/2018 10:12:10 PM] [User.ReceiveData] » XLucaITWR tried to delete DE82 but he haven't it!
+[10/7/2018 10:12:10 PM] [User.ReceiveData] » XLucaITWR tried to delete DE82 but he haven't it!
+[10/7/2018 10:12:10 PM] [User.ReceiveData] » XLucaITWR tried to delete DE82 but he haven't it!
+[10/7/2018 10:12:10 PM] [User.ReceiveData] » XLucaITWR tried to delete DE82 but he haven't it!
+[10/7/2018 10:12:11 PM] [User.ReceiveData] » XLucaITWR tried to delete DE82 but he haven't it!
+[10/7/2018 10:12:11 PM] [User.ReceiveData] » XLucaITWR tried to delete DE82 but he haven't it!
+[10/7/2018 10:12:11 PM] [User.ReceiveData] » XLucaITWR tried to delete DE82 but he haven't it!
+[10/7/2018 10:12:11 PM] [User.ReceiveData] » XLucaITWR tried to delete DE82 but he haven't it!
+[10/7/2018 10:12:13 PM] [User.ReceiveData] » XLucaITWR tried to delete DE94 but he haven't it!
+[10/7/2018 10:12:13 PM] [User.ReceiveData] » XLucaITWR tried to delete DE94 but he haven't it!
+[10/7/2018 10:12:16 PM] [User.ReceiveData] » XLucaITWR tried to delete DD24 but he haven't it!
+[10/7/2018 10:12:27 PM] [User.ReceiveData] » XLucaITWR tried to delete DS01 but he haven't it!
+[10/7/2018 10:12:27 PM] [User.ReceiveData] » XLucaITWR tried to delete DS01 but he haven't it!
+[10/7/2018 10:12:40 PM] [User.ReceiveData] » XLucaITWR tried to delete D801 but he haven't it!
+[10/7/2018 10:12:41 PM] [User.ReceiveData] » XLucaITWR tried to delete D807 but he haven't it!
+[10/7/2018 10:12:41 PM] [User.ReceiveData] » XLucaITWR tried to delete D807 but he haven't it!
+[10/7/2018 10:12:42 PM] [User.ReceiveData] » XLucaITWR tried to delete D828 but he haven't it!
+[10/7/2018 10:12:42 PM] [User.ReceiveData] » XLucaITWR tried to delete D828 but he haven't it!
+[10/7/2018 10:12:42 PM] [User.ReceiveData] » XLucaITWR tried to delete D828 but he haven't it!
+[10/7/2018 10:12:42 PM] [User.ReceiveData] » XLucaITWR tried to delete D828 but he haven't it!
+[10/7/2018 10:14:38 PM] [User.ReceiveData] » [DEBUG] XLucaITWR No TCP Client - kick out
+[10/7/2018 10:16:39 PM] [User.ReceiveData] » XLucaITWR tried to delete CR53 but he haven't it!
+[10/8/2018 12:00:19 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:19 - 08/10/2018
+[10/8/2018 2:44:51 PM] [User.ReceiveData] » XLucaITWR tried to equip DF19 but he haven't it!
+[10/8/2018 2:45:00 PM] [User.ReceiveData] » XLucaITWR tried to equip DF19 but he haven't it!
+[10/9/2018 12:00:00 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:00 - 09/10/2018
+[10/10/2018 12:00:44 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:44 - 10/10/2018
+[10/10/2018 12:16:37 PM] [User.ReceiveData] » [DEBUG] Astrix No TCP Client - kick out
+[10/11/2018 12:00:22 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:22 - 11/10/2018
+[10/12/2018 12:00:07 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:07 - 12/10/2018
+[10/13/2018 12:00:47 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:47 - 13/10/2018
+[10/13/2018 1:46:15 PM] [User.ReceiveData] » [DEBUG] Heim1 No TCP Client - kick out
+[10/14/2018 12:00:12 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:12 - 14/10/2018
+[10/15/2018 12:00:38 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:38 - 15/10/2018
+[10/16/2018 12:00:33 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:33 - 16/10/2018
+[10/16/2018 4:24:08 PM] [User.ReceiveData] » [DEBUG] nikoboy No TCP Client - kick out
+[10/17/2018 12:00:39 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:38 - 17/10/2018
+[10/18/2018 12:00:48 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:48 - 18/10/2018
+[10/19/2018 12:00:05 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:05 - 19/10/2018
+[10/19/2018 11:02:49 AM] [User.ReceiveData] » [DEBUG] KingBoy No TCP Client - kick out
+[10/20/2018 12:00:18 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:18 - 20/10/2018
+[10/21/2018 12:00:22 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:22 - 21/10/2018
+[10/22/2018 12:00:18 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:18 - 22/10/2018
+[10/23/2018 12:00:51 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:51 - 23/10/2018
+[10/24/2018 12:00:24 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:24 - 24/10/2018
+[10/25/2018 12:00:03 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:03 - 25/10/2018
+[10/26/2018 12:00:26 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:26 - 26/10/2018
+[10/27/2018 12:00:37 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:37 - 27/10/2018
+[10/27/2018 11:19:39 PM] [TCP_Client.OnReceive] » Unhandled TCP Packet (25) AyYildizTim 0
+[10/28/2018 12:00:26 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:26 - 28/10/2018
+[10/28/2018 3:00:08 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[10/29/2018 12:00:33 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:33 - 29/10/2018
+[10/30/2018 12:00:59 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:59 - 30/10/2018
+[10/31/2018 12:00:16 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:16 - 31/10/2018
+[11/1/2018 12:00:48 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:48 - 01/11/2018
+[11/2/2018 12:00:46 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:46 - 02/11/2018
+[11/3/2018 12:00:01 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:01 - 03/11/2018
+[11/4/2018 12:00:47 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:47 - 04/11/2018
+[11/5/2018 12:00:32 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:32 - 05/11/2018
+[11/6/2018 12:00:15 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:15 - 06/11/2018
+[11/7/2018 12:00:08 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:08 - 07/11/2018
+[11/8/2018 12:00:09 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:09 - 08/11/2018
+[11/8/2018 12:40:07 AM] [User.ReceiveData] » Adult tried to equip D6_MP7A1_8TH in the class 0 [NOT ALLOWED!]
+[11/8/2018 12:40:17 AM] [User.ReceiveData] » Adult tried to equip D6_MP7A1_8TH in the class 0 [NOT ALLOWED!]
+[11/9/2018 12:00:02 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:01 - 09/11/2018
+[11/10/2018 12:00:50 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:50 - 10/11/2018
+[11/11/2018 12:00:25 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:25 - 11/11/2018
+[11/11/2018 3:21:05 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[11/12/2018 12:00:08 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:08 - 12/11/2018
+[11/13/2018 12:00:50 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:50 - 13/11/2018
+[11/14/2018 12:00:48 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:48 - 14/11/2018
+[11/15/2018 12:00:52 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:52 - 15/11/2018
+[11/16/2018 12:00:36 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:36 - 16/11/2018
+[11/17/2018 12:00:22 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:22 - 17/11/2018
+[11/18/2018 12:00:09 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:09 - 18/11/2018
+[11/19/2018 12:00:57 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:57 - 19/11/2018
+[11/19/2018 5:13:10 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[11/19/2018 6:56:24 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[11/20/2018 12:00:49 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:49 - 20/11/2018
+[11/21/2018 12:00:31 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:31 - 21/11/2018
+[11/22/2018 12:00:20 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:20 - 22/11/2018
+[11/23/2018 12:00:01 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:01 - 23/11/2018
+[11/24/2018 12:00:47 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:47 - 24/11/2018
+[11/25/2018 12:00:25 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:25 - 25/11/2018
+[11/26/2018 12:00:10 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:10 - 26/11/2018
+[11/27/2018 12:00:08 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:08 - 27/11/2018
+[11/28/2018 12:00:31 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:31 - 28/11/2018
+[11/29/2018 12:00:57 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:57 - 29/11/2018
+[11/29/2018 7:27:09 PM] [User.ReceiveData] » [DEBUG] XLucaITWR No TCP Client - kick out
+[11/30/2018 12:00:10 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:10 - 30/11/2018
+[11/30/2018 7:27:47 PM] [User.ReceiveData] » [DEBUG] ProHackss No TCP Client - kick out
+[12/1/2018 12:00:05 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:05 - 01/12/2018
+[12/2/2018 12:00:42 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:42 - 02/12/2018
+[12/2/2018 8:01:17 PM] [User.ReceiveData] » SUKA1 tried to equip GG_HECATE2 in the slot 2 [NOT ALLOWED!]
+[12/2/2018 8:01:41 PM] [User.ReceiveData] » SUKA1 tried to equip GG_HECATE2 in the slot 2 [NOT ALLOWED!]
+[12/3/2018 12:00:25 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:25 - 03/12/2018

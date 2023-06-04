@@ -1,0 +1,110 @@
+/* Start up: 7/27/2018 12:47:44 AM */
+
+[7/27/2018 12:47:47 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:47:47 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:47:47 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:47:47 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:47:47 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:47:47 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:47:47 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+/* Start up: 7/27/2018 12:51:22 AM */
+
+[7/27/2018 12:51:25 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:51:25 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:51:25 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:51:25 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:51:25 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:51:25 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:51:25 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:52:27 AM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 366
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1907
+[7/27/2018 12:54:35 AM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 366
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1987
+/* Start up: 7/27/2018 12:55:49 AM */
+
+[7/27/2018 12:55:51 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:55:51 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:55:51 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:55:51 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:55:51 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:55:51 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 12:55:51 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 1:51:05 AM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 366
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1979
+[7/27/2018 2:06:30 AM] [User.ReceiveData] » khalilkhalaila1230 -> error with  Ticket ID
+[7/27/2018 2:06:35 AM] [User.ReceiveData] » khalilkhalaila1230 -> error with  Ticket ID
+[7/27/2018 2:06:50 AM] [User.ReceiveData] » khalilkhalaila1230 -> error with  Ticket ID
+/* Start up: 7/27/2018 2:09:18 AM */
+
+[7/27/2018 2:09:22 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:09:22 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:09:22 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:09:22 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:09:22 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:09:22 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:09:22 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+/* Start up: 7/27/2018 2:38:19 AM */
+
+[7/27/2018 2:38:22 AM] [Program.initializeStartup] » Map ID [46] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:38:22 AM] [Program.initializeStartup] » Map ID [22] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:38:22 AM] [Program.initializeStartup] » Map ID [80] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:38:22 AM] [Program.initializeStartup] » Map ID [89] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:38:22 AM] [Program.initializeStartup] » Map ID [27] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:38:22 AM] [Program.initializeStartup] » Map ID [44] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 2:38:22 AM] [Program.initializeStartup] » Map ID [71] its already in the dictionary, maybe some duplicate (?)
+[7/27/2018 3:49:45 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 3:50:48 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 3:51:07 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 3:51:15 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 3:51:58 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 3:52:50 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 3:56:28 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 4:00:51 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 4:27:33 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 4:29:25 AM] [User.ReceiveData] » [MOD]Submarine tried to spectate (Rank: 4 - AccessLevel: 3)
+[7/27/2018 4:29:35 AM] [User.ReceiveData] » [MOD]Submarine tried to spectate (Rank: 4 - AccessLevel: 3)
+[7/27/2018 4:37:39 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:39 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:39 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:39 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:39 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:39 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:39 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:39 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:39 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:40 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:40 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:40 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:40 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:40 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:37:40 AM] [User.ReceiveData] » No vehicles for map 33
+[7/27/2018 4:47:33 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 4:56:19 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 7:08:48 AM] [User.ReceiveData] » [MOD]Submarine tried to spectate (Rank: 4 - AccessLevel: 3)
+[7/27/2018 8:23:25 AM] [User.ReceiveData] » [MOD]Hitleer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 8:23:34 AM] [User.ReceiveData] » [MOD]Hitleer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 8:23:42 AM] [User.ReceiveData] » [MOD]Hitleer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 8:24:02 AM] [User.ReceiveData] » [MOD]Hitleer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 8:27:00 AM] [User.ReceiveData] » [MOD]Hitleer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 8:48:36 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 9:04:10 AM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/27/2018 9:38:40 AM] [User.ReceiveData] » [DEBUG] Sleman No TCP Client - kick out
+[7/27/2018 10:58:34 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 11:19:24 AM] [User.ReceiveData] » [DEBUG] Sleman No TCP Client - kick out
+[7/27/2018 11:31:35 AM] [User.ReceiveData] » [MOD]Hitleer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 12:29:46 PM] [User.ReceiveData] » [DEBUG] Sleman No TCP Client - kick out
+[7/27/2018 2:25:26 PM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/27/2018 2:53:42 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/27/2018 3:40:25 PM] [User.ReceiveData] » [MOD]Submarine tried to spectate (Rank: 4 - AccessLevel: 3)
+[7/27/2018 3:43:01 PM] [User.ReceiveData] » need tried to equip DE58 but he haven't it!
+[7/27/2018 3:54:43 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/27/2018 4:03:20 PM] [User.ReceiveData] » Unknown Clan Subtype 16
+[7/27/2018 5:34:12 PM] [User.ReceiveData] » [DEBUG] Katana No TCP Client - kick out
+[7/27/2018 7:00:31 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/27/2018 10:37:00 PM] [User.ReceiveData] » [DEBUG] MrSnap No TCP Client - kick out
+[7/28/2018 12:00:30 AM] [ExecutionContext.RunInternal] » Daily reset done at 00:00:30 - 28/07/2018
+[7/28/2018 12:03:05 AM] [ExecutionContext.RunInternal] » Error at update:Index was outside the bounds of the array.    at Game_Server.Room.EndGame() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 366
+   at Game_Server.Room.update() in C:\Users\Administrator\Desktop\Server\Game Server\Room\Room.cs:line 1980
+[7/28/2018 12:08:01 AM] [User.ReceiveData] » [MOD]Hitleer tried to spectate (Rank: 5 - AccessLevel: 3)
+[7/28/2018 2:33:33 AM] [User.ReceiveData] » [MOD]Submarine tried to spectate (Rank: 4 - AccessLevel: 3)
+[7/28/2018 2:50:05 AM] [User.ReceiveData] » [GM]Jhzeer tried to spectate (Rank: 5 - AccessLevel: 3)
